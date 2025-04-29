@@ -6,8 +6,8 @@
 - ⚡ Fun fact: Brincar é inédito, mas brincar na ciência, rende o conhecimento
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaVitoria&show_icons=true&theme=radical" />
-    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaVitoria&layout=compact&langs_count=16&theme=radical" />
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=DaVitoria&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaVitoria&layout=compact&langs_count=16&theme=radical" />
 </div
 
 <div style="display: inline-block;">
